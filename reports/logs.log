@@ -1,0 +1,112 @@
+2024-07-01 15:47:18,991 - INFO - Constructor Executed Successfully.
+2024-07-01 15:47:18,992 - INFO - Successfully Separated Numerical And Categorical Variables In The Dataset.
+2024-07-01 15:47:35,645 - INFO - Constructor Executed Successfully.
+2024-07-01 15:47:35,646 - INFO - Successfully Separated Numerical And Categorical Variables In The Dataset.
+2024-07-01 15:48:14,271 - INFO - Constructor Executed Successfully.
+2024-07-01 15:48:14,272 - INFO - Successfully Separated Numerical And Categorical Variables In The Dataset.
+2024-07-01 15:52:53,215 - INFO - Constructor Executed Successfully.
+2024-07-01 15:52:53,251 - INFO - Successfully Found The Missing Percentage In The Dataset.
+2024-07-01 15:52:53,252 - INFO - Successfully Separated Numerical And Categorical Variables In The Dataset.
+2024-07-01 15:52:53,286 - INFO - Successfully Found The Missing Percentage In The Dataset.
+2024-07-01 15:52:53,341 - INFO - Could Not Deal With Missing Values Due To Item assignment with <class 'list'> not supported
+2024-07-01 15:54:24,606 - INFO - Constructor Executed Successfully.
+2024-07-01 15:54:24,607 - INFO - Successfully Separated Numerical And Categorical Variables In The Dataset.
+2024-07-01 15:54:33,115 - INFO - Constructor Executed Successfully.
+2024-07-01 15:54:33,151 - INFO - Successfully Found The Missing Percentage In The Dataset.
+2024-07-01 15:54:33,152 - INFO - Successfully Separated Numerical And Categorical Variables In The Dataset.
+2024-07-01 15:54:33,186 - INFO - Successfully Found The Missing Percentage In The Dataset.
+2024-07-01 15:54:33,240 - INFO - Could Not Deal With Missing Values Due To Item assignment with <class 'list'> not supported
+2024-07-01 15:55:24,448 - INFO - Constructor Executed Successfully.
+2024-07-01 15:55:24,483 - INFO - Successfully Found The Missing Percentage In The Dataset.
+2024-07-01 15:55:24,484 - INFO - Successfully Separated Numerical And Categorical Variables In The Dataset.
+2024-07-01 15:55:24,517 - INFO - Successfully Found The Missing Percentage In The Dataset.
+2024-07-01 15:55:24,569 - INFO - Could Not Deal With Missing Values Due To Item assignment with <class 'list'> not supported
+2024-07-01 15:56:20,906 - INFO - Constructor Executed Successfully.
+2024-07-01 15:56:20,942 - INFO - Successfully Found The Missing Percentage In The Dataset.
+2024-07-01 15:56:20,943 - INFO - Successfully Separated Numerical And Categorical Variables In The Dataset.
+2024-07-01 15:56:20,976 - INFO - Successfully Found The Missing Percentage In The Dataset.
+2024-07-01 15:56:21,031 - INFO - Could Not Deal With Missing Values Due To Item assignment with <class 'list'> not supported
+2024-07-01 16:00:04,630 - INFO - Constructor Executed Successfully.
+2024-07-01 16:00:04,667 - INFO - Successfully Found The Missing Percentage In The Dataset.
+2024-07-01 16:00:04,668 - INFO - Successfully Separated Numerical And Categorical Variables In The Dataset.
+2024-07-01 16:00:04,702 - INFO - Successfully Found The Missing Percentage In The Dataset.
+2024-07-01 16:00:04,770 - INFO - Could Not Deal With Missing Values Due To Item assignment with <class 'list'> not supported
+2024-07-01 16:00:31,471 - INFO - Constructor Executed Successfully.
+2024-07-01 16:00:31,472 - INFO - Successfully Separated Numerical And Categorical Variables In The Dataset.
+2024-07-01 16:00:31,508 - INFO - Successfully Found The Missing Percentage In The Dataset.
+2024-07-01 16:00:31,509 - INFO - Successfully Separated Numerical And Categorical Variables In The Dataset.
+2024-07-01 16:00:31,544 - INFO - Successfully Found The Missing Percentage In The Dataset.
+2024-07-01 16:00:31,611 - INFO - Could Not Deal With Missing Values Due To Item assignment with <class 'list'> not supported
+2024-07-01 18:06:17,076 - INFO - Constructor Executed Successfully.
+2024-07-01 18:06:17,078 - INFO - Successfully Separated Numerical And Categorical Variables In The Dataset.
+2024-07-01 18:06:17,184 - INFO - Successfully Found The Missing Percentage In The Dataset.
+2024-07-01 18:06:17,263 - INFO - Successfully Handled Missing Values.
+2024-07-01 18:06:17,283 - INFO - Successfully Handled Duplicates
+2024-07-01 18:06:17,359 - INFO - Successfully Label Encoded Target.
+2024-07-01 18:06:17,430 - INFO - Successfully Separated Numerical And Categorical Variables In The Dataset.
+2024-07-01 18:06:17,595 - INFO - Successfully Encoded Categorical Variables
+2024-07-01 18:06:17,597 - INFO - Successfully Separated Numerical And Categorical Variables In The Dataset.
+2024-07-01 18:06:17,742 - INFO - Successfully Scaled Numerical Data.
+2024-07-01 18:06:17,746 - INFO - Data Preprocessing Completed Successfully.
+2024-07-01 18:07:35,586 - INFO - Constructor Executed Successfully.
+2024-07-01 18:07:35,587 - INFO - Successfully Separated Numerical And Categorical Variables In The Dataset.
+2024-07-01 18:07:35,661 - INFO - Successfully Found The Missing Percentage In The Dataset.
+2024-07-01 18:07:35,704 - INFO - Successfully Handled Missing Values.
+2024-07-01 18:07:35,716 - INFO - Successfully Handled Duplicates
+2024-07-01 18:07:35,740 - INFO - No Need To Encode Feature.
+2024-07-01 18:07:35,791 - INFO - Successfully Separated Numerical And Categorical Variables In The Dataset.
+2024-07-01 18:07:35,878 - INFO - Successfully Encoded Categorical Variables
+2024-07-01 18:07:35,880 - INFO - Successfully Separated Numerical And Categorical Variables In The Dataset.
+2024-07-01 18:07:35,970 - INFO - Successfully Scaled Numerical Data.
+2024-07-01 18:07:35,973 - INFO - Data Preprocessing Completed Successfully.
+2024-07-01 18:07:49,721 - INFO - Constructor Executed Successfully.
+2024-07-01 18:07:49,722 - INFO - Successfully Separated Numerical And Categorical Variables In The Dataset.
+2024-07-01 18:07:49,796 - INFO - Successfully Found The Missing Percentage In The Dataset.
+2024-07-01 18:07:49,838 - INFO - Successfully Handled Missing Values.
+2024-07-01 18:07:49,851 - INFO - Successfully Handled Duplicates
+2024-07-01 18:07:49,874 - INFO - No Need To Encode Feature.
+2024-07-01 18:07:49,926 - INFO - Successfully Separated Numerical And Categorical Variables In The Dataset.
+2024-07-01 18:07:50,013 - INFO - Successfully Encoded Categorical Variables
+2024-07-01 18:07:50,014 - INFO - Successfully Separated Numerical And Categorical Variables In The Dataset.
+2024-07-01 18:07:50,102 - INFO - Successfully Scaled Numerical Data.
+2024-07-01 18:07:50,105 - INFO - Data Preprocessing Completed Successfully.
+2024-07-01 18:08:02,792 - INFO - Constructor Executed Successfully.
+2024-07-01 18:08:02,793 - INFO - Successfully Separated Numerical And Categorical Variables In The Dataset.
+2024-07-01 18:08:02,898 - INFO - Successfully Found The Missing Percentage In The Dataset.
+2024-07-01 18:08:02,970 - INFO - Successfully Handled Missing Values.
+2024-07-01 18:08:02,987 - INFO - Successfully Handled Duplicates
+2024-07-01 18:08:03,061 - INFO - Successfully Label Encoded Target.
+2024-07-01 18:08:03,133 - INFO - Successfully Separated Numerical And Categorical Variables In The Dataset.
+2024-07-01 18:08:03,288 - INFO - Successfully Encoded Categorical Variables
+2024-07-01 18:08:03,289 - INFO - Successfully Separated Numerical And Categorical Variables In The Dataset.
+2024-07-01 18:08:03,438 - INFO - Successfully Scaled Numerical Data.
+2024-07-01 18:08:03,443 - INFO - Data Preprocessing Completed Successfully.
+2024-07-01 18:08:25,584 - INFO - Constructor Executed Successfully.
+2024-07-01 18:08:25,585 - INFO - Successfully Separated Numerical And Categorical Variables In The Dataset.
+2024-07-01 18:08:25,691 - INFO - Successfully Found The Missing Percentage In The Dataset.
+2024-07-01 18:08:25,761 - INFO - Successfully Handled Missing Values.
+2024-07-01 18:08:25,777 - INFO - Successfully Handled Duplicates
+2024-07-01 18:08:25,852 - INFO - Successfully Label Encoded Target.
+2024-07-01 18:08:25,922 - INFO - Successfully Separated Numerical And Categorical Variables In The Dataset.
+2024-07-01 18:08:26,077 - INFO - Successfully Encoded Categorical Variables
+2024-07-01 18:08:26,078 - INFO - Successfully Separated Numerical And Categorical Variables In The Dataset.
+2024-07-01 18:08:26,224 - INFO - Successfully Scaled Numerical Data.
+2024-07-01 18:08:26,228 - INFO - Data Preprocessing Completed Successfully.
+2024-07-01 23:21:25,852 - INFO - Constructor Executed Successfully.
+2024-07-01 23:21:25,861 - INFO - Successfully Separated Numerical And Categorical Variables In The Dataset.
+2024-07-01 23:21:25,898 - INFO - Successfully Found The Missing Percentage In The Dataset.
+2024-07-01 23:21:25,923 - INFO - Successfully Handled Missing Values.
+2024-07-01 23:21:25,928 - INFO - Successfully Handled Duplicates
+2024-07-01 23:21:25,955 - INFO - Successfully Label Encoded Target.
+2024-07-01 23:21:25,955 - INFO - Successfully Separated Numerical And Categorical Variables In The Dataset.
+2024-07-01 23:21:25,958 - ERROR - Could Not Encode Features Due To OneHotEncoder.__init__() got an unexpected keyword argument 'sparse'
+2024-07-01 23:21:25,958 - ERROR - Data Preprocessing Failed Due To OneHotEncoder.__init__() got an unexpected keyword argument 'sparse'
+2024-07-01 23:21:47,024 - INFO - Constructor Executed Successfully.
+2024-07-01 23:21:47,024 - INFO - Successfully Separated Numerical And Categorical Variables In The Dataset.
+2024-07-01 23:21:47,061 - INFO - Successfully Found The Missing Percentage In The Dataset.
+2024-07-01 23:21:47,086 - INFO - Successfully Handled Missing Values.
+2024-07-01 23:21:47,091 - INFO - Successfully Handled Duplicates
+2024-07-01 23:21:47,118 - INFO - Successfully Label Encoded Target.
+2024-07-01 23:21:47,119 - INFO - Successfully Separated Numerical And Categorical Variables In The Dataset.
+2024-07-01 23:21:47,129 - ERROR - Could Not Encode Features Due To `df.column.cat.categories` with unknown categories is not supported.  Please use `column.cat.as_known()` or `df.categorize()` beforehand to ensure known categories
+2024-07-01 23:21:47,129 - ERROR - Data Preprocessing Failed Due To `df.column.cat.categories` with unknown categories is not supported.  Please use `column.cat.as_known()` or `df.categorize()` beforehand to ensure known categories
