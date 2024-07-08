@@ -59,4 +59,5 @@ if "data" in st.session_state and "index" in st.session_state:
 
     st.subheader("Hierarchical Clusters In The Dataset: ")
     hierarchy = Hierarchies(st.session_state["data"], st.session_state["index"])
-    st.image(hierarchy.dendrogram())
+    with st.expander("Hierarchies In The Dataset"):
+        st.image(hierarchy.dendrogram())
