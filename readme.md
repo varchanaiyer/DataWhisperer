@@ -31,7 +31,7 @@ All datasets used for testing this project have been acquired from the below lis
 ## Sample Run
 Here's a small sample run of the project:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lo0_Wnk3mqM" frameborder="0" allowfullscreen></iframe>
+[Sample Run](./streamlit-DataWhisperer-2024-07-09-00-07-58.webm)
 
 
 ## Usage
