@@ -31,7 +31,7 @@ All datasets used for testing this project have been acquired from the below lis
 ## Sample Run
 Here's a small sample run of the project:
 
-[Sample Run](./streamlit-DataWhisperer-2024-07-09-00-07-58.webm)
+https://github.com/K0MPLEXWorksTogether/DataWhisperer/assets/139705842/ac6672e5-b066-41d5-a389-8bc898c03b72
 
 
 ## Usage
