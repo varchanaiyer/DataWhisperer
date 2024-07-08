@@ -50,6 +50,7 @@ While the tool itself is built on the idea of automating classic ML tasks, it ha
 - **Classification Only:** The website for now can only deal with multiclass or binary classifcation. Work must be put in for regression, clustering, etc.
 - **Exploratory Data Analysis:** As different problems and different datasets require different approaches, automation of EDA can help in deciding models and tasks.
 - **Data Preprocessing:** A minimum of one text-based feature is required in the dataset for now.
+- **Time To Find Model:** The website now takes an extremely high amount of time to find the best model for the dataset.
 
 
 ## Future Scope
