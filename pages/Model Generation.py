@@ -85,7 +85,7 @@ if "data" in st.session_state and "index" in st.session_state:
             X_train=X_val,
             y_train=y_val,
             problem_type=classification_type,
-            max_batches=1,
+            max_batches=5,
             objective='auto',
             random_seed=42,
             max_time=60,
