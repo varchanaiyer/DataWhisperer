@@ -89,7 +89,9 @@ if "data" in st.session_state and "index" in st.session_state:
             objective='auto',
             random_seed=42,
             max_time=60,
-            
+            optimize_thresholds=True,
+            n_jobs=-1,
+            patience=100
         )
 
         # Run AutoMLSearch
