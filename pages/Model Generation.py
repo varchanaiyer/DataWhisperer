@@ -106,9 +106,9 @@ if "data" in st.session_state and "index" in st.session_state:
     for idx in model_list:
         row = rankings.loc[idx]
         st.subheader(f"Model: {extract_pipeline_description(row['pipeline_name'])}")
-        st.metric(label="Percent Better Than Baseline Predictor", value=row['percent_better_than_baseline'])
-        st.metric(label="Mean Cross Validation Score", value=row['mean_cv_score'])
-        st.metric(label="Standard Deviation Cross Validation Score" , value=row['standard_deviation_cv_score'])
+        st.metric(label="Percent Better Than Baseline Predictor", value=row['percent_better_than_baseline'], delta=f"{100 - round(row['percent_better_than_baseline'], 2)}")
+        st.metric(label="Mean Cross Validation Score", value=row['mean_cv_score'], delta=f"{100 - round(row['mean_cv_score'], 2)}")
+        st.metric(label="Standard Deviation Cross Validation Score" , value=row['standard_deviation_cv_score'], delta=f"{100 - round(row['standard_deviation_cv_score'], 2)}")
 
     with st.spinner("Training your model with training data: "):
         pipeline = automl.best_pipeline
