@@ -16,7 +16,7 @@ def return_splits(dataframe, target_index) -> list:
     return result
 
 
-def approx(value1: float, value2: float, tolerance: float = 0.1) -> bool:
+def approx(value1: float, value2: float, tolerance: float = 0.01) -> bool:
     """
     Responsible for making approximations in training and test accuracy
     closeness. Returns a boolean.
