@@ -44,6 +44,25 @@ Here's how you can use the app to your benefit:
 - **Model Generation:** *This part takes a little time.* The website finds the best model for your dataset, and display's the training, testing and validation classification report, along with the confusion matrix.
 - **Fundamental Patterns And Insights:** You can check for basic insights like feature importance, linear separability, and some advance insights like associate rules, itemset mining, and hierarchies usnig a dendrogram.
 
+## Local Run
+
+Here's how you can locally run the app. This app is currently under development. This way of  running the app is highly recommended, as the deployment has limited CPU and memory.
+
+You need python > 3.10 to run the app.
+
+- **Clone The Repo**: If you have git installed, cloning the repository can make this process easier.
+- **Download Zipped Code:** A zip file can be downloaded in the code section of this page. Unzip the file, and you can see this repository's directory structure.
+- **Install With Pip:** Navigate to the folder, and run the following command:
+
+```python
+
+pip install -r requirements.txt
+```
+- **Run Your App:** Now, you can run the app using the command:
+```python
+streamlit run DataWhisperer.py
+```
+
 ## Limitations
 While the tool itself is built on the idea of automating classic ML tasks, it has not reached that level of automation.
 
