@@ -59,7 +59,7 @@ You need python > 3.10 to run the app.
 pip install -r requirements.txt
 ```
 - **Run Your App:** Now, you can run the app using the command:
-```python
+```
 streamlit run DataWhisperer.py
 ```
 
